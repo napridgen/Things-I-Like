@@ -5,3 +5,20 @@ img {
 h1 {
   text-align: center;
 }
+
+ul {
+  list-style-type: none;
+}
+li {
+  float: left;
+}
+a {
+  display: block;
+  padding: 8px;
+  background-color: aquamarine;
+  color: black;
+}
+
+li a:hover {
+  background-color: rgb(255, 213, 161);
+}
