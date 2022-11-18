@@ -34,3 +34,7 @@ footer {
 #cameraMan {
   float: left;
 }
+
+ol {
+  list-style: none;
+}
