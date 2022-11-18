@@ -12,7 +12,7 @@ ul {
 li {
   float: left;
 }
-a {
+#navBar {
   display: block;
   padding: 8px;
   background-color: aquamarine;
