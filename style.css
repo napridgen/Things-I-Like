@@ -32,9 +32,14 @@ footer {
   font-size: 10px;
 }
 #cameraMan {
-  float: left;
+  display: inline;
 }
 
 ol {
   list-style: none;
+  display: inline;
+}
+
+h3 {
+  color: white;
 }
