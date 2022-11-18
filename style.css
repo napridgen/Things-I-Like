@@ -13,6 +13,8 @@ ul {
   position: relative;
   text-align: center;
   float: left;
+  left: 710px;
+  bottom: 30px;
 }
 .navBar a {
   float: none;
@@ -28,4 +30,7 @@ ul {
 }
 footer {
   font-size: 10px;
+}
+#cameraMan {
+  float: left;
 }
